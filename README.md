@@ -4,6 +4,9 @@
 
 This is a data analysis project aim to provide basic insights into the sales performance of a bike sales company using Microsoft Excel.The project's objective was to gain insights into the sales performance, customers profiles, and profitability of the bike products. The analysis was conducted to assist in making data-driven decisions to improve business strategies and determine areas for growth. The entire project dataset which comprises of 1001 rows and 14 columns is completed using MS Excel concepts such as data cleaning, pivot tables and dashboard. 
 
+![Bike Image](https://github.com/user-attachments/assets/dd6a70fe-74cd-4a92-816c-6ec6d7f14134)
+
+
 ### Data Sources
 The Primary dataset used for this analysis is the "bike_sales_data.csv" file , containing deatiled information about each bike sale made by the company.
 
