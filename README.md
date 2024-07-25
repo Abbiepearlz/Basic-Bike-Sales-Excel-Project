@@ -9,14 +9,19 @@ This is a data analysis project aim to provide basic insights into the sales per
 
 
 ### Data Sources
+---
+
 The Primary dataset used for this analysis is the "[Bike sales dataset.xlsx](https://github.com/user-attachments/files/16380388/Bike.sales.dataset.xlsx)"
  file , containing deatiled information about each bike sale made by the company.
+ 
 
 ### Tool
+---
 Microsoft Excel - [Download Here](https:/microsoft.com)
 
-### Data cleaning / Preparation 
 
+### Data cleaning / Preparation 
+---
 In the initial data preparation phase,i performed the following tasks 
 1. Data loading and inspection 
 2. Removed duplicates
@@ -26,6 +31,7 @@ In the initial data preparation phase,i performed the following tasks
 6. Created an interactive dashboard in Excel with slicers, which allows users to interact with the data.
 
 ### Exploratory Data Analysis
+---
 1. This involved exploring the sales data to answer few key questions such as:
 2. What are the number of males and females that purchased the bike at that particular time?
 3. Is there any influence of commuting distance on bike purchase?
@@ -33,6 +39,7 @@ In the initial data preparation phase,i performed the following tasks
 5. What are the age range of customers that puchased the bike?
 
 ### Data Analysis
+---
 Functions Used :
 
 ```Excel
@@ -42,6 +49,7 @@ Syntax "=IF(L2 >54,"Old", IF(L2>30,"Middle Age", IF(L2<=30 ,"Adolescents","Inval
 ```
 
 ### Results 
+---
 ![bike dashboard](https://github.com/user-attachments/assets/92a1adbb-5264-4137-8597-c77092135522)
 
 
@@ -56,9 +64,10 @@ The analysis results are summarized as follows:
 4. Customers in shorter commutes (0-1 miles) tend to purchase bikes more than customers in longer commutes (10 miles +), which suggest that cummute distance is also an influence in bike purchase.
 
 5. A decrease in bike purchases was observed with an increase in the number of children.
+   
 
 ### Recomendation.
-
+---
 Based on the analysis , i recommend the following actions :
 
 - Improve marketing techniques, such as focusing on enticing workers and attracting people who have longer commutes.
