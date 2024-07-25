@@ -1,6 +1,7 @@
 # Basic Bike Sales Analysis
 
 ### Project Overview
+---
 
 This is a data analysis project aim to provide basic insights into the sales performance of a bike sales company using Microsoft Excel.The project's objective was to gain insights into the sales performance, customers profiles, and profitability of the bike products. The analysis was conducted to assist in making data-driven decisions to improve business strategies and determine areas for growth. The entire project dataset which comprises of 1001 rows and 14 columns is completed using MS Excel concepts such as data cleaning, pivot tables and dashboard. 
 
